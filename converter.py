@@ -1,5 +1,6 @@
 from colorama import Fore, Style, init
 
+# Teste
 init(autoreset=True)
 
 def int_to_roman(number):
